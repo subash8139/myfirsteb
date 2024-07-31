@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Teko:wght@300..700&display=swap');
+*{
+    
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: black;
+}
+.head{
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 600px;
+    width: 500px;
+    margin: 10px auto;
+    
+}
+h1{
+    
+   text-align: center;
+   color: rgb(28, 98, 230);
+   font-size: 65px;
+   font-weight: bolder;
+}
+.form{
+    box-shadow: 0px 0px 35px -5px rgba(102, 83, 83, 0.75);
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: 15px;
+    height: 480px;
+    text-align: center;
+    
+}
+span{
+    opacity: 0;
+}
+.login{
+    margin-top: 20px;
+}
+h4{
+    margin: 20px;
+    font-size: 18px;
+}
+input{
+    width: 350px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 6px;
+    border: 1px solid rgb(216, 213, 213);
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: 600;
+   
+}
+.button1{
+    width: 350px;
+    height: 50px;
+    border: none;
+    background-color: rgb(17, 123, 245);
+    border-radius: 6px;
+    color: white;
+    font-weight: 600;
+    font-size: 17px;
+    margin: 10px;
+}
+.account{
+    color: rgb(36, 123, 236);
+    font-weight: 600;
+    margin: 15px;
+    font-size: 15px;
+}
+hr{
+    margin: 0px 20px;
+}
+.or{
+    height: 17px;
+    width: 40px;
+    background-color: whitesmoke;
+    margin-top: -11px;
+    margin-left: 215px;
+    
+    
+}
+.button2{
+    width: 220px;
+    height: 50px;
+    border: none;
+    background-color: rgb(33, 182, 66);
+    border-radius: 6px;
+    color: white;
+    font-weight: 600;
+    font-size: 17px;
+    margin: 40px;
+}

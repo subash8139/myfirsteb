@@ -1,0 +1,21 @@
+body{
+ 	background-image: url(img/1.jpg);
+ 	background-repeat: no-repeat;
+    	background-size: cover;
+    	background-attachment: fixed;
+}
+h1{
+ 	color:red;
+}
+.a{
+	background-color:white;
+   	color:red;
+}
+.b{
+	background-color:white;
+   	color:red;
+}
+.c{
+	background-color:white;
+   	color:red;
+}

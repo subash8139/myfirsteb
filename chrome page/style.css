@@ -1,0 +1,107 @@
+   *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: 78%;
+    margin-top: 40px;
+}
+li a{
+    text-decoration: none;
+    color: rgb(153, 161, 168);
+}
+ul li{
+ 
+    padding: 15px;
+}
+li i{
+    font-size: 21px;
+    color: rgb(153, 161, 168);
+}
+.designg{
+    text-align: center;
+    font-size: 110px;
+    margin-top: 80px;
+    font-weight: 900;
+}
+.g{
+    color: blue;
+}
+.o1{
+    color: red;
+}
+.o2{
+    color: yellow;
+}
+.l{
+    color: green;
+}
+.e{
+    color: red;
+}
+.search{
+    height: 50px;
+    width: 500px;
+    border: none;
+    margin-left: 31%;
+    margin-top: 50px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.46);
+}
+.sea input{
+    outline: none;
+}
+.dot{
+    opacity: 0;
+}
+.sea{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    
+
+}
+.sea .fa-magnifying-glass{
+    margin-left: 20px;
+    font-size: 15px;
+}
+.sea input{
+    width: 350px;
+    height: 46px;
+   border: none;
+    margin-top: -25px;
+    margin-left: 20px;
+    
+
+}
+.sea .fa-microphone{
+    margin-right: 10px;
+}
+.sea .fa-camera-retro{
+    margin-right: 25px;
+}
+.icon{
+    
+    margin-top: 20px;
+    text-align: center;
+    height: 50px;
+    
+}
+.icon .fa-brands{
+    padding: 30px;
+    font-size: 30px;
+}
+.icon .fa-whatsapp{
+    color: green;
+}
+.icon .fa-facebook{
+    color: blue;
+}
+.icon .fa-instagram{
+    color: rgb(228, 80, 105);
+}

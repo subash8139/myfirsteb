@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: aliceblue
+}
+.head,h3{
+    text-align: center;
+    margin: 10px;
+}
+img{
+    height: 600px;
+    width: 1100px;
+    margin-left: 100px;
+}
+.bio{
+    width: 400px;
+    margin-left: 450px;
+    
+}

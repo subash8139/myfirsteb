@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    color: aliceblue;
+    background-color: black;
+}
+.form{
+    width: 500px;
+    border: 2px solid;
+    margin: 10px 400px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+hr{
+    margin: 5px;
+}
+input{
+    border-radius: 5px;
+    height: 25px;
+}
+.inp{
+    display: flex;
+    margin-top: 10px;
+}
+.last1{
+        margin-left: 15px;
+}
+
+.bar1{
+    width: 450px;
+    height: 25px;
+    border-radius: 5px;
+    
+}
+select{
+    height: 25px;
+    width: 350px;
+}
+span{
+    font-weight: 700;
+    font-size: 20px;
+}
+.but{
+    display: flex;
+    
+}
+p{
+    padding: 3px;
+    
+}
+li{
+    margin-top: -23px;
+    list-style: none;
+    padding: 20px;
+    display: flex;
+}
+button{
+    border: 1px solid;
+    border-radius: 5px;
+    height: 30px;
+    width: 70px;
+    color: aliceblue;
+    background-color: blue;
+    margin-left: 180px;
+}
